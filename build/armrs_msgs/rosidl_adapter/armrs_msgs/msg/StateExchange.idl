@@ -1,0 +1,21 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from armrs_msgs/msg/StateExchange.msg
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Pose2D.idl"
+
+module armrs_msgs {
+  module msg {
+    @verbatim (language="comment", text=
+      "Robot State")
+    struct StateExchange {
+      geometry_msgs::msg::Pose2D pose;
+
+      @verbatim (language="comment", text=
+        "Navigation information (for visualization)")
+      geometry_msgs::msg::Pose2D goal;
+
+      sequence<double> si_vel;
+    };
+  };
+};

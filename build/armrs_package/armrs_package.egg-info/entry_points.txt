@@ -1,0 +1,8 @@
+[console_scripts]
+ROS2_controller = armrs_package.ROS2_controller:main
+ROS2_dist_controller = armrs_package.ROS2_dist_controller:main
+ROS2_fleet_evaluator = armrs_package.ROS2_fleet_evaluator:main
+ROS2_sensors = armrs_package.ROS2_sensors:main
+ROS2_sim = armrs_package.ROS2_sim:main
+ROS2_visualizer = armrs_package.ROS2_visualizer:main
+

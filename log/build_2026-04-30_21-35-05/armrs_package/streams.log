@@ -1,0 +1,24 @@
+[0.456s] Invoking command in '/home/mahmmudqatmh/arms_ros2_humble/ros2_ws/build/armrs_package': PYTHONPATH=/home/mahmmudqatmh/arms_ros2_humble/ros2_ws/build/armrs_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mahmmudqatmh/arms_ros2_humble/ros2_ws/install/armrs_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mahmmudqatmh/arms_ros2_humble/ros2_ws/build/armrs_package/build --no-deps symlink_data
+[0.646s] running develop
+[0.695s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: -VERSION- is an invalid version and will not be supported in a future release
+[0.695s]   warnings.warn(
+[0.787s] running egg_info
+[0.787s] writing armrs_package.egg-info/PKG-INFO
+[0.787s] writing dependency_links to armrs_package.egg-info/dependency_links.txt
+[0.787s] writing entry points to armrs_package.egg-info/entry_points.txt
+[0.787s] writing requirements to armrs_package.egg-info/requires.txt
+[0.788s] writing top-level names to armrs_package.egg-info/top_level.txt
+[0.789s] reading manifest file 'armrs_package.egg-info/SOURCES.txt'
+[0.790s] writing manifest file 'armrs_package.egg-info/SOURCES.txt'
+[0.791s] running build_ext
+[0.791s] Creating /home/mahmmudqatmh/arms_ros2_humble/ros2_ws/install/armrs_package/lib/python3.10/site-packages/armrs-package.egg-link (link to .)
+[0.791s] Installing ROS2_controller script to /home/mahmmudqatmh/arms_ros2_humble/ros2_ws/install/armrs_package/lib/armrs_package
+[0.791s] Installing ROS2_dist_controller script to /home/mahmmudqatmh/arms_ros2_humble/ros2_ws/install/armrs_package/lib/armrs_package
+[0.792s] Installing ROS2_fleet_evaluator script to /home/mahmmudqatmh/arms_ros2_humble/ros2_ws/install/armrs_package/lib/armrs_package
+[0.792s] Installing ROS2_sensors script to /home/mahmmudqatmh/arms_ros2_humble/ros2_ws/install/armrs_package/lib/armrs_package
+[0.792s] Installing ROS2_sim script to /home/mahmmudqatmh/arms_ros2_humble/ros2_ws/install/armrs_package/lib/armrs_package
+[0.792s] Installing ROS2_visualizer script to /home/mahmmudqatmh/arms_ros2_humble/ros2_ws/install/armrs_package/lib/armrs_package
+[0.792s] 
+[0.792s] Installed /home/mahmmudqatmh/arms_ros2_humble/ros2_ws/build/armrs_package
+[0.792s] running symlink_data
+[0.810s] Invoked command in '/home/mahmmudqatmh/arms_ros2_humble/ros2_ws/build/armrs_package' returned '0': PYTHONPATH=/home/mahmmudqatmh/arms_ros2_humble/ros2_ws/build/armrs_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mahmmudqatmh/arms_ros2_humble/ros2_ws/install/armrs_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mahmmudqatmh/arms_ros2_humble/ros2_ws/build/armrs_package/build --no-deps symlink_data

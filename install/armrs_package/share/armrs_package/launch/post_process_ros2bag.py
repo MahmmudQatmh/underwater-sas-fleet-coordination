@@ -1,1 +1,0 @@
-/home/mahmmudqatmh/arms_ros2_humble/ros2_ws/build/armrs_package/launch/post_process_ros2bag.py

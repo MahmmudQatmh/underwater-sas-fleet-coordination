@@ -1,1 +1,0 @@
-/home/mahmmudqatmh/arms_ros2_humble/ros2_ws/build/armrs_msgs/rosidl_typesupport_introspection_c/armrs_msgs/msg/detail/state_exchange__rosidl_typesupport_introspection_c.h

@@ -1,1 +1,0 @@
-ament_cmake_symlink_install_targets("TARGET_FILES" "/home/mahmmudqatmh/arms_ros2_humble/ros2_ws/build/armrs_msgs/rosidl_generator_py/armrs_msgs/armrs_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" "TARGETS" "armrs_msgs__rosidl_typesupport_introspection_c__pyext" "DESTINATION" "local/lib/python3.10/dist-packages/armrs_msgs")

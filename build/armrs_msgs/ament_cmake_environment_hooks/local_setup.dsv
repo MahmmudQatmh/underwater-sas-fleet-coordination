@@ -1,4 +1,0 @@
-source;share/armrs_msgs/environment/ament_prefix_path.sh
-source;share/armrs_msgs/environment/library_path.sh
-source;share/armrs_msgs/environment/path.sh
-source;share/armrs_msgs/environment/pythonpath.sh

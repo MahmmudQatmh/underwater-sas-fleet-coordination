@@ -1,1 +1,0 @@
-/home/mahmmudqatmh/arms_ros2_humble/ros2_ws/build/armrs_msgs/rosidl_cmake/rosidl_cmake_export_typesupport_targets-extras.cmake

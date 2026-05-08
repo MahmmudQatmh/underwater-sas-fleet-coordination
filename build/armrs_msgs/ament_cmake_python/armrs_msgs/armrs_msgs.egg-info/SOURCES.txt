@@ -1,6 +1,0 @@
-setup.py
-armrs_msgs/__init__.py
-armrs_msgs.egg-info/PKG-INFO
-armrs_msgs.egg-info/SOURCES.txt
-armrs_msgs.egg-info/dependency_links.txt
-armrs_msgs.egg-info/top_level.txt

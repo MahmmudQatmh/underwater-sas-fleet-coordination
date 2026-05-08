@@ -1,1 +1,0 @@
-/home/mahmmudqatmh/arms_ros2_humble/ros2_ws/build/armrs_msgs/ament_cmake_environment_hooks/local_setup.sh
